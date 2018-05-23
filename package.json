@@ -1,0 +1,17 @@
+{
+  "name": "envenv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brunocanepa/envenv.git",
+  "author": "Bruno Cánepa <brucanepa@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "envenv",
+    "env",
+    ".env",
+    "environment",
+    "variables",
+    "config",
+    "settings"
+  ]
+}
