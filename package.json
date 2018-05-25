@@ -1,6 +1,6 @@
 {
   "name": "envenv",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "main": "index.js",
   "repository": "https://github.com/brunocanepa/envenv.git",
   "author": "Bruno Cánepa <brucanepa@gmail.com>",
